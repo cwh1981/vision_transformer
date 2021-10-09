@@ -28,3 +28,5 @@ CNN과 비교해서 데이터가 거대화 지면, Transformer가 더 좋은 이
 fine tunning할때 pre-trainning할때 높은 해상도가 좋은 이유? 
 * https://hipgyung.tistory.com/entry/%EC%89%BD%EA%B2%8C-%EC%9D%B4%ED%95%B4%ED%95%98%EB%8A%94-ViTVision-Transformer-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0-An-Image-is-Worth-16x16-Words-Transformers-for-Image-Recognition-at-Scale 
 => CNN의 경우에는 일반적으로 fine tunning을 해상도가 낮을것으로 함.  
+
+Position embedding 공간적인 정보를 어떻게 해석해야할지? 
