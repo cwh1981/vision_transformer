@@ -30,3 +30,4 @@ fine tunning할때 pre-trainning할때 높은 해상도가 좋은 이유?
 => CNN의 경우에는 일반적으로 fine tunning을 해상도가 낮을것으로 함.  
 
 Position embedding 공간적인 정보를 어떻게 해석해야할지? 
+CNN과 Transformer Filter의 차이  
