@@ -21,4 +21,6 @@
 8) linear - softmax - output 
 
 
-Input Embedding : 차원 축소, 다르게 Embedding하는 이유, value를 구지 하는 이유?
+Input Embedding : 차원 축소, 다르게 Embedding하는 이유, value를 구지 하는 이유?  
+
+https://towardsdatascience.com/transformers-explained-visually-part-3-multi-head-attention-deep-dive-1c1ff1024853
