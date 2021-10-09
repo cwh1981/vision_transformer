@@ -19,3 +19,6 @@
 7) point wise feed forward network 
 
 8) linear - softmax - output 
+
+
+Input Embedding : 차원 축소, 다르게 Embedding하는 이유
