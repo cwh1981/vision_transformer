@@ -49,3 +49,4 @@ https://www.youtube.com/watch?v=DjEvzeiWBTo
 - irreducible entropy
 - saturation
 - Big models are more sample efficient
+- https://medium.com/codex/scaling-vision-transformers-ca51034246df
