@@ -31,3 +31,15 @@ fine tunning할때 pre-trainning할때 높은 해상도가 좋은 이유?
 
 Position embedding 공간적인 정보를 어떻게 해석해야할지? 
 CNN과 Transformer Filter의 차이  
+
+
+[Deit]
+- Deit-B : 파라미터 변경
+- Soft distilation 은 확률가 쿨백
+- Hard Distilation은 반반
+- Bias 때문에 Teacher의 CNN이 더 좋다?
+- corrlelation?
+- learning rate cosine decay
+- repeat augumentation
+- 
+- 
