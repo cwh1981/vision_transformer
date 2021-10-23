@@ -41,5 +41,7 @@ CNN과 Transformer Filter의 차이
 - corrlelation?
 - learning rate cosine decay
 - repeat augumentation
-- 
+- https://www.youtube.com/watch?v=0gmd4OVmDU8
+https://www.youtube.com/watch?v=DjEvzeiWBTo
+
 - 
