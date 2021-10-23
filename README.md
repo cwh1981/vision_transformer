@@ -44,4 +44,8 @@ CNN과 Transformer Filter의 차이
 - https://www.youtube.com/watch?v=0gmd4OVmDU8
 https://www.youtube.com/watch?v=DjEvzeiWBTo
 
-- 
+[Scale Vit]
+- extrapolate
+- irreducible entropy
+- saturation
+- Big models are more sample efficient
